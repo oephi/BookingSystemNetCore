@@ -1,0 +1,10 @@
+/home/sickle/Documents/Projects/BookingSystem/bin/Debug/netcoreapp2.0/BookingSystem.deps.json
+/home/sickle/Documents/Projects/BookingSystem/bin/Debug/netcoreapp2.0/BookingSystem.runtimeconfig.json
+/home/sickle/Documents/Projects/BookingSystem/bin/Debug/netcoreapp2.0/BookingSystem.runtimeconfig.dev.json
+/home/sickle/Documents/Projects/BookingSystem/bin/Debug/netcoreapp2.0/BookingSystem.dll
+/home/sickle/Documents/Projects/BookingSystem/bin/Debug/netcoreapp2.0/BookingSystem.pdb
+/home/sickle/Documents/Projects/BookingSystem/obj/Debug/netcoreapp2.0/BookingSystem.csproj.CoreCompileInputs.cache
+/home/sickle/Documents/Projects/BookingSystem/obj/Debug/netcoreapp2.0/BookingSystem.AssemblyInfoInputs.cache
+/home/sickle/Documents/Projects/BookingSystem/obj/Debug/netcoreapp2.0/BookingSystem.AssemblyInfo.cs
+/home/sickle/Documents/Projects/BookingSystem/obj/Debug/netcoreapp2.0/BookingSystem.dll
+/home/sickle/Documents/Projects/BookingSystem/obj/Debug/netcoreapp2.0/BookingSystem.pdb
